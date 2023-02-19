@@ -1,0 +1,39 @@
+﻿@page "/CallFunction"
+@inject MetaMask.Blazor.IMetaMaskService _metaMask;
+@using Nethereum.ABI.Model;
+@using Nethereum.Web3;
+@inject IConfiguration configuration;
+<div class="container">
+    <div class="input-group">
+        <button class="btn btn-primary" @onclick="Send">Send</button>
+    </div>
+</div>
+@if (showResult)
+{
+    <div class="modal fade show" role="dialog" style="display: inline;" tabindex="-1" id="modal-1">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Results Fetched</h4>
+                </div>
+                <div class="modal-body">
+                    <h3>@results</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+@code {
+    public bool showResult = false;
+    public string results = string.Empty;
+
+    private async Task Send()
+    {
+        string network_url = "HTTP://127.0.0.1:7545";
+        var web3 = new Web3(network_url);
+        string contractAddress = "0x96CD37Ce131bdd80c84719d80EbBD8a27BF6aE16";
+        string functionName = "castVote";
+        Parameter param = new Parameter("string", "candiate", 1);
+        showResult = true;
+    }
+}

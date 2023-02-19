@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SeamLessCustomerOnboarding
+build_property.RootNamespace = SeamLessCustomerOnboarding
+build_property.ProjectDir = C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/CallFunction.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsbEZ1bmN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-t8oy6mnt4g
+
+[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-rihrs9p10d
+
+[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
