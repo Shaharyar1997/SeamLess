@@ -9,53 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SeamLessCustomerOnboarding
 build_property.RootNamespace = SeamLessCustomerOnboarding
-build_property.ProjectDir = C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\
+build_property.ProjectDir = D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding
+build_property.MSBuildProjectDirectory = D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/App.razor]
+[D:/Desktop Backuo/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/CallFunction.razor]
+[D:/Desktop Backuo/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/Admin/CreateBank.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ3JlYXRlQmFuay5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop Backuo/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/Admin/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop Backuo/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/CallFunction.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsbEZ1bmN0aW9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[D:/Desktop Backuo/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/Customer/CreateAccount.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcQ3JlYXRlQWNjb3VudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+[D:/Desktop Backuo/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/Customer/HowTo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcSG93VG8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/Index.razor]
+[D:/Desktop Backuo/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/Customer/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop Backuo/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Shared/SurveyPrompt.razor]
+[D:/Desktop Backuo/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/Modal/BankDiv.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kYWxcQmFua0Rpdi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop Backuo/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/Modal/BankModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kYWxcQmFua01vZGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop Backuo/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/_Imports.razor]
+[D:/Desktop Backuo/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Shared/MainLayout.razor]
+[D:/Desktop Backuo/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-t8oy6mnt4g
 
-[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Shared/NavMenu.razor]
+[D:/Desktop Backuo/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-rihrs9p10d
 
-[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/Error.cshtml]
+[D:/Desktop Backuo/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shaharyar.ayaz/Desktop/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/_Host.cshtml]
+[D:/Desktop Backuo/SeamLessCustomerOnboarding/SeamLess/SeamLessCustomerOnboarding/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

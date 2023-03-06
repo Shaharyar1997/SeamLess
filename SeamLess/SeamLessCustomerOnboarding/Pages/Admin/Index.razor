@@ -1,0 +1,163 @@
+﻿@page "/Admin/Home"
+@using MetaMask.Blazor;
+@using MetaMask.Blazor.Enums;
+@using MetaMask.Blazor.Exceptions;
+@using Nethereum.ABI.FunctionEncoding;
+@using Nethereum.ABI.Model;
+@using SeamLessCustomerOnboarding.Models;
+@using System.Numerics;
+@using SeamLessCustomerOnboarding.Models.Admin;
+@implements IDisposable;
+@inject NavigationManager navigation;
+@inject SeamLessCustomerOnboarding.Models.MetaMaskService serviceMetaMask;
+@using Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage;
+@inject ProtectedSessionStorage ProtectedSessionStore;
+
+@if (!HasMetaMask)
+{
+    <p>No MetaMask detected. Please install <a href="https://metamask.io" target="_blank">MetaMask</a>.</p>
+}
+else if (string.IsNullOrEmpty(SelectedAddress))
+{
+    <h1>BankOnChain</h1>
+    <button class="btn btn-primary" style="float:right;" @onclick="ConnectMetaMask">Connect MetaMask</button>
+    <br />
+    <br />
+}
+else
+{
+
+    <h1>BankOnChain</h1>
+    <button class="btn btn-primary" style="display:inline-block;float:right" @onclick="ConnectMetaMask">@SelectedAddress.Substring(0,16)</button>
+
+    <button class="btn btn-primary" @onclick="GetSelectedAddress">Get Selected Address</button>
+    <br />
+    <p>@SelectedAddress</p>
+    <br />
+
+    <button class="btn btn-primary" @onclick="GetSelectedNetwork">Get Selected Chain</button>
+    <br />
+    <p>@SelectedChain</p>
+    <br />
+
+    <button class="btn btn-primary" @onclick="GetTransactionCount">Get Transaction Count</button>
+    <br />
+    <p>@TransactionCount</p>
+    <br />
+
+    <button class="btn btn-primary" @onclick="@(() => SignData("label", "value"))">Sign Data</button>
+    <br />
+    <p>@SignedData</p>
+    <br />
+
+    
+
+
+
+    <button class="btn btn-primary" @onclick="GenericRpc">Generic RPC call examle</button>
+    <button class="btn btn-primary" @onclick="GetBalance">Get Balance examle</button>
+    <br />
+    <br />
+    <p>@RpcResult</p>
+    <br />
+
+
+}
+
+@code {
+
+    public bool HasMetaMask { get; set; }
+    public string? SelectedAddress { get; set; }
+    public string? SelectedChain { get; set; }
+    public string? TransactionCount { get; set; }
+    public string? SignedData { get; set; }
+    public string? SignedDataV4 { get; set; }
+    public string? FunctionResult { get; set; }
+    public string? RpcResult { get; set; }
+    public Chain? Chain { get; set; }
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+
+
+            await serviceMetaMask.InitializeMetaMask();
+
+
+            bool isSiteConnected = await serviceMetaMask.isConnected();
+            if (isSiteConnected)
+            {
+                await GetSelectedNetwork();
+                await ProtectedSessionStore.SetAsync("key", serviceMetaMask.getAddress());
+            }
+            await ProtectedSessionStore.SetAsync("Role", "Admin");
+
+
+
+
+            StateHasChanged();
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+    public async Task ConnectMetaMask()
+    {
+
+        await serviceMetaMask.ConnectMetaMask();
+
+    }
+
+    public async Task GetSelectedAddress()
+    {
+        SelectedAddress = serviceMetaMask.getAddress();
+
+    }
+
+    public async Task GetSelectedNetwork()
+    {
+
+
+        SelectedChain = await serviceMetaMask.GetSelectedNetwork();
+
+    }
+
+    public async Task GetTransactionCount()
+    {
+        TransactionCount = await serviceMetaMask.GetTransactionCount();
+    }
+
+    public async Task SignData(string label, string value)
+    {
+        await  serviceMetaMask.SignData(label, value);
+    }
+
+
+
+
+    public async Task GenericRpc()
+    { 
+        RpcResult = await serviceMetaMask.GenericRpc();
+    }
+
+    public async Task GetBalance()
+    {
+
+        RpcResult = await serviceMetaMask.GetBalance(); ;
+    }
+
+    public void Dispose()
+    {
+         serviceMetaMask.Dispose();
+    }
+
+ }
+

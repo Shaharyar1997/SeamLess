@@ -1,17 +1,96 @@
 ﻿@inherits LayoutComponentBase
+@inject NavigationManager navigation;
 
+@using SeamLessCustomerOnboarding.Models;
+@inject MetaMaskStateContainer stateMeta;
 <PageTitle>BankOnChain</PageTitle>
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header bg-dark text-light">
+    <header class="mdl-layout__header">
+        <div class="mdl-layout__header-row">
+            <strong class="mdl-layout-title"><span class="oi oi-dollar" aria-hidden="true"></span>BankOnChain</strong>
 
-<div class="page">
-    <div class="sidebar">
-        <NavMenu />
-    </div>
+            <div class="mdl-layout-spacer"></div>
+            <nav class="mdl-navigation mdl-layout--large-screen-only">
+               
+                    <a class="mdl-navigation__link" @onclick="CustomerHome">Home</a>
 
-    <main>
-        
+                    <a class="mdl-navigation__link" @onclick="CreateAccount">Create Account</a>
 
-        <article class="content px-4">
-            @Body
-        </article>
-    </main>
+                    <a class="mdl-navigation__link" @onclick="ViewAccount">View Accounts</a>
+
+                    <a class="mdl-navigation__link" @onclick="ViewUploadDocument">Upload/View</a>
+                @if(stateMeta.isMetaMaskConnected())
+                {
+                         <button class="btn btn-primary" style="float:right;" ><span class="oi oi-key" aria-hidden="true"></span>@stateMeta.getEthereumAddress()</button>
+                }
+
+              
+
+            </nav>
+        </div>
+    </header>
+   
+   
 </div>
+<div class="container">
+    <div class="row">
+        <div class="col-12 col-md-12 p-3 p-md-5"></div>
+        <main role="main" class="pb-3">
+            @Body
+        </main>
+
+    </div>
+</div>
+
+
+@code {
+
+    public bool HasMetaMask;
+    public string Role = "Customer";
+
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+    
+    private  void ViewHome()
+    {
+        navigation.NavigateTo("/");
+    }
+    private void CustomerHome()
+    {
+        navigation.NavigateTo("Customer/Index");
+    }
+    private void CreateAccount()
+    {
+        navigation.NavigateTo("Customer/CreateAccount");
+    }
+    private void ViewAccount()
+    {
+
+        navigation.NavigateTo("Customer/ViewAccounts");
+    }
+    private void ViewUploadDocument()
+    {
+        navigation.NavigateTo("Customer/ViewUploadDocuments");
+    }
+    private void AdminHome()
+    {
+        navigation.NavigateTo("Admin/Index");
+
+    }
+    private void CreateBank()
+    {
+        navigation.NavigateTo("Admin/CreateBank");
+
+    }
+    private void ViewBank()
+    {
+        navigation.NavigateTo("Admin/ViewBank");
+
+    }
+}

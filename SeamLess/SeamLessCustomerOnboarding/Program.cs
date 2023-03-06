@@ -3,6 +3,9 @@ using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using Blazored.Modal;
 using SeamLessCustomerOnboarding.Data;
+using SeamLessCustomerOnboarding.Models;
+using System.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,7 +14,10 @@ builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddMetaMaskBlazor();
 builder.Services.AddBlazoredModal();
-builder.Services.AddSingleton<WeatherForecastService>();
+builder.Services.AddSingleton<MailService>();
+builder.Services.AddSingleton<MetaMaskStateContainer>();
+builder.Services.AddTransient<SeamLessCustomerOnboarding.Models.MetaMaskService>();
+builder.Services.AddSingleton<StateContainerService>();
 
 var app = builder.Build();
 

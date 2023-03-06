@@ -1,0 +1,34 @@
+﻿@page "/Customer/Index";
+@using SeamLessCustomerOnboarding.Models;
+@inject MetaMaskStateContainer stateMeta;
+
+<h2>
+    BankOnChain
+</h2>
+<p>BankOnChain is an online customer onboarding Application which connect customer directly to Bank.</p>
+
+<p>This will allow customer to create their account only once for each Bank,this will reduce the customer onboarding process.
+</p>
+
+<p>Customer KYC is also done only one, and other bank use it for the KYC purpose as it is only one time process.</p>
+
+<p>
+    
+    Their are three functionality for customer.Customer can view the Account Information,View the Account,
+    and Upload the document.
+
+</p>
+<p></p>
+
+<p></p>
+
+<p></p>
+@if (!stateMeta.getMetaMaskAvaialability())
+{
+
+    <HowTo></HowTo>
+}
+@code{
+    public bool HasMetaMask;
+    public string SelectedEthereumAddress;
+}

@@ -14,6 +14,7 @@
     <SourceRoot Include="C:\Program Files\dotnet\sdk\NuGetFallbackFolder\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)syncfusion.blazor\20.4.0.50\buildTransitive\Syncfusion.Blazor.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor\20.4.0.50\buildTransitive\Syncfusion.Blazor.props')" />
     <Import Project="$(NuGetPackageRoot)nethereum.metamask.blazor\4.13.0\buildTransitive\Nethereum.Metamask.Blazor.props" Condition="Exists('$(NuGetPackageRoot)nethereum.metamask.blazor\4.13.0\buildTransitive\Nethereum.Metamask.Blazor.props')" />
     <Import Project="$(NuGetPackageRoot)blazored.modal\7.1.0\buildTransitive\Blazored.Modal.props" Condition="Exists('$(NuGetPackageRoot)blazored.modal\7.1.0\buildTransitive\Blazored.Modal.props')" />
   </ImportGroup>

@@ -1,0 +1,30 @@
+﻿@page "/BankModal"
+
+<h1>Select Bank</h1>
+
+<button @onclick="ShowModal">View Movies</button>
+
+@code {
+
+    [CascadingParameter] IModalService Modal { get; set; } = default!;
+    public class Movies
+    {
+        public string name;
+        public string address;
+    }
+    private async Task ShowModal()
+    {
+
+        var moviesModal = Modal.Show<BankDiv>("My Movies");
+        var result = await moviesModal.Result;
+
+        if (result.Cancelled)
+        {
+            Console.WriteLine("Modal was cancelled");
+        }
+        else if (result.Confirmed)
+        {
+            Console.WriteLine("Modal was closed");
+        }
+    }
+}

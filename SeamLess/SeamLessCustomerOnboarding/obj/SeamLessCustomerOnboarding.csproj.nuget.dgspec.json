@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shaharyar.ayaz\\Desktop\\SeamLessCustomerOnboarding\\SeamLess\\SeamLessCustomerOnboarding\\SeamLessCustomerOnboarding.csproj": {}
+    "D:\\Desktop Backuo\\SeamLessCustomerOnboarding\\SeamLess\\SeamLessCustomerOnboarding\\SeamLessCustomerOnboarding.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shaharyar.ayaz\\Desktop\\SeamLessCustomerOnboarding\\MetaMask.Blazor\\MetaMask.Blazor.csproj": {
+    "D:\\Desktop Backuo\\SeamLessCustomerOnboarding\\MetaMask.Blazor\\MetaMask.Blazor.csproj": {
       "version": "1.8.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shaharyar.ayaz\\Desktop\\SeamLessCustomerOnboarding\\MetaMask.Blazor\\MetaMask.Blazor.csproj",
+        "projectUniqueName": "D:\\Desktop Backuo\\SeamLessCustomerOnboarding\\MetaMask.Blazor\\MetaMask.Blazor.csproj",
         "projectName": "MetaMask.Blazor",
-        "projectPath": "C:\\Users\\shaharyar.ayaz\\Desktop\\SeamLessCustomerOnboarding\\MetaMask.Blazor\\MetaMask.Blazor.csproj",
+        "projectPath": "D:\\Desktop Backuo\\SeamLessCustomerOnboarding\\MetaMask.Blazor\\MetaMask.Blazor.csproj",
         "packagesPath": "C:\\Users\\shaharyar.ayaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shaharyar.ayaz\\Desktop\\SeamLessCustomerOnboarding\\MetaMask.Blazor\\obj\\",
+        "outputPath": "D:\\Desktop Backuo\\SeamLessCustomerOnboarding\\MetaMask.Blazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -67,18 +67,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\shaharyar.ayaz\\Desktop\\SeamLessCustomerOnboarding\\SeamLess\\SeamLessCustomerOnboarding\\SeamLessCustomerOnboarding.csproj": {
+    "D:\\Desktop Backuo\\SeamLessCustomerOnboarding\\SeamLess\\SeamLessCustomerOnboarding\\SeamLessCustomerOnboarding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shaharyar.ayaz\\Desktop\\SeamLessCustomerOnboarding\\SeamLess\\SeamLessCustomerOnboarding\\SeamLessCustomerOnboarding.csproj",
+        "projectUniqueName": "D:\\Desktop Backuo\\SeamLessCustomerOnboarding\\SeamLess\\SeamLessCustomerOnboarding\\SeamLessCustomerOnboarding.csproj",
         "projectName": "SeamLessCustomerOnboarding",
-        "projectPath": "C:\\Users\\shaharyar.ayaz\\Desktop\\SeamLessCustomerOnboarding\\SeamLess\\SeamLessCustomerOnboarding\\SeamLessCustomerOnboarding.csproj",
+        "projectPath": "D:\\Desktop Backuo\\SeamLessCustomerOnboarding\\SeamLess\\SeamLessCustomerOnboarding\\SeamLessCustomerOnboarding.csproj",
         "packagesPath": "C:\\Users\\shaharyar.ayaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shaharyar.ayaz\\Desktop\\SeamLessCustomerOnboarding\\SeamLess\\SeamLessCustomerOnboarding\\obj\\",
+        "outputPath": "D:\\Desktop Backuo\\SeamLessCustomerOnboarding\\SeamLess\\SeamLessCustomerOnboarding\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -98,8 +98,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\shaharyar.ayaz\\Desktop\\SeamLessCustomerOnboarding\\MetaMask.Blazor\\MetaMask.Blazor.csproj": {
-                "projectPath": "C:\\Users\\shaharyar.ayaz\\Desktop\\SeamLessCustomerOnboarding\\MetaMask.Blazor\\MetaMask.Blazor.csproj"
+              "D:\\Desktop Backuo\\SeamLessCustomerOnboarding\\MetaMask.Blazor\\MetaMask.Blazor.csproj": {
+                "projectPath": "D:\\Desktop Backuo\\SeamLessCustomerOnboarding\\MetaMask.Blazor\\MetaMask.Blazor.csproj"
               }
             }
           }
@@ -118,9 +118,21 @@
               "target": "Package",
               "version": "[7.1.0, )"
             },
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Forms": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
             "Microsoft.JSInterop": {
               "target": "Package",
               "version": "[7.0.3, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[3.5.0, )"
             },
             "Nethereum.ABI": {
               "target": "Package",
@@ -133,6 +145,18 @@
             "Nethereum.Metamask.Blazor": {
               "target": "Package",
               "version": "[4.13.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.28.1, )"
+            },
+            "Syncfusion.Blazor": {
+              "target": "Package",
+              "version": "[20.4.0.50, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -154,7 +178,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

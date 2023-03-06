@@ -1,14 +1,34 @@
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.csproj.AssemblyReference.cache
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.AssemblyInfoInputs.cache
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.AssemblyInfo.cs
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.csproj.CoreCompileInputs.cache
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.RazorAssemblyInfo.cache
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.RazorAssemblyInfo.cs
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\MetaMask.Blazor.staticwebassets.runtime.json
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\appsettings.json
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\libman.json
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\SeamLessCustomerOnboarding.staticwebassets.runtime.json
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\SeamLessCustomerOnboarding.exe
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\SeamLessCustomerOnboarding.deps.json
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\SeamLessCustomerOnboarding.runtimeconfig.json
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\SeamLessCustomerOnboarding.dll
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\SeamLessCustomerOnboarding.pdb
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Blazored.Modal.dll
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\MailKit.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.JSInterop.dll
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\MimeKit.dll
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\NBitcoin.Secp256k1.dll
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.ABI.dll
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.Accounts.dll
@@ -33,16 +53,23 @@ C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCust
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.Web3.dll
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\SendGrid.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\StarkbankEcdsa.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Syncfusion.Blazor.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Syncfusion.ExcelExport.Net.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Syncfusion.Licensing.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Syncfusion.PdfExport.Net.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\MetaMask.Blazor.dll
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\MetaMask.Blazor.pdb
-C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.csproj.AssemblyReference.cache
-C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.AssemblyInfoInputs.cache
-C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.AssemblyInfo.cs
-C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.csproj.CoreCompileInputs.cache
-C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.RazorAssemblyInfo.cache
-C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.RazorAssemblyInfo.cs
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\staticwebassets\msbuild.SeamLessCustomerOnboarding.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\staticwebassets\msbuild.build.SeamLessCustomerOnboarding.props
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SeamLessCustomerOnboarding.props
@@ -60,6 +87,92 @@ C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCust
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.pdb
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.genruntimeconfig.cache
 C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\ref\SeamLessCustomerOnboarding.dll
-C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.JSInterop.dll
-C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\MetaMask.Blazor.staticwebassets.runtime.json
-C:\Users\shaharyar.ayaz\Desktop\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Blazored.Modal.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.csproj.AssemblyReference.cache
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.AssemblyInfoInputs.cache
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.AssemblyInfo.cs
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.csproj.CoreCompileInputs.cache
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.RazorAssemblyInfo.cache
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.RazorAssemblyInfo.cs
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\refint\SeamLessCustomerOnboarding.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.pdb
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\appsettings.Development.json
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\appsettings.json
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\libman.json
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\MetaMask.Blazor.staticwebassets.runtime.json
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\SeamLessCustomerOnboarding.staticwebassets.runtime.json
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\SeamLessCustomerOnboarding.exe
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\SeamLessCustomerOnboarding.deps.json
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\SeamLessCustomerOnboarding.runtimeconfig.json
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\SeamLessCustomerOnboarding.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\SeamLessCustomerOnboarding.pdb
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Blazored.Modal.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\FluentValidation.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\MailKit.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.JSInterop.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\MimeKit.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\NBitcoin.Secp256k1.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.ABI.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.Accounts.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.BlockchainProcessing.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.Contracts.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.Hex.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.JsonRpc.Client.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.JsonRpc.RpcClient.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.KeyStore.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.Merkle.Patricia.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.Metamask.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.Metamask.Blazor.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.Model.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.RLP.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.RPC.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.Signer.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.Signer.EIP712.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.Siwe.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.Siwe.Core.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.UI.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.Util.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Nethereum.Web3.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\SendGrid.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\StarkbankEcdsa.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Syncfusion.Blazor.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Syncfusion.ExcelExport.Net.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Syncfusion.Licensing.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\Syncfusion.PdfExport.Net.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\MetaMask.Blazor.dll
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\bin\Debug\net7.0\MetaMask.Blazor.pdb
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\staticwebassets\msbuild.SeamLessCustomerOnboarding.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\staticwebassets\msbuild.build.SeamLessCustomerOnboarding.props
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SeamLessCustomerOnboarding.props
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SeamLessCustomerOnboarding.props
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\staticwebassets.build.json
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\staticwebassets.development.json
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\scopedcss\bundle\SeamLessCustomerOnboarding.styles.css
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\scopedcss\projectbundle\SeamLessCustomerOnboarding.bundle.scp.css
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.csproj.CopyComplete
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\SeamLessCustomerOnboarding.genruntimeconfig.cache
+D:\Desktop Backuo\SeamLessCustomerOnboarding\SeamLess\SeamLessCustomerOnboarding\obj\Debug\net7.0\ref\SeamLessCustomerOnboarding.dll

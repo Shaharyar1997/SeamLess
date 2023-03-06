@@ -1,0 +1,250 @@
+﻿@page "/Customer/CreateAccount"
+
+<div class="row justify-content-center">
+    <div class="col-md-10">
+        <div class="card mt-3 mb-3">
+            <div class="card-header">
+                <h2 style="color:black">Account Opening Form</h2>
+            </div>
+            <EditForm Model="@account" OnValidSubmit="HandleSubmit">
+                <DataAnnotationsValidator />
+                <ValidationSummary />
+            <div class="card-body">
+                    <div class ="form-group row">
+                    <h3 style="color:black">AccountInformation</h3>
+                   </div>
+                    <div class="form-group row">
+                        
+                        <div class="col-6">
+                            <label style="color:black" class="control-label col-md-12">Account Type:</label>
+                            <InputSelect class="form-control" @bind-Value="account.AccountCurrency">
+                                <option value="0">-- Select Type --</option>
+                                <option value="Current">Current</option>
+                                <option value="Saving">Saving</option>
+                            </InputSelect>
+                            <ValidationMessage For="() => account.Account_Type" />
+                        </div>
+                        <div class="col-6">
+                            <label style="color:black" class="control-label col-md-12">Account Currency:</label>
+                            <InputSelect class="form-control" @bind-Value="account.AccountCurrency">
+                                <option value="0">-- Select Currency --</option>
+                                <option value="1">PKR</option>
+                                <option value="2">USD</option>
+
+                                <option value="3">EURO</option>
+                            </InputSelect>
+                            <ValidationMessage For="() => account.AccountCurrency" />
+                        </div>
+
+
+                    </div>
+                    <div class="form-group row">
+
+                        <div class="col">
+                            <label style="color:black" class="control-label col-md-12">Account Title (IN CAPITAL LETTER):</label>
+                            <InputText class="form-control" @bind-Value="account.AccountTitle" />
+                          
+                            <ValidationMessage For="() => account.AccountTitle" />
+                        </div>
+                        
+
+
+                    </div>
+                    <div class="form-group row">
+
+                        <div  class="col">
+                            <label style="color:black" class="control-label col-md-12">Mailing Address:</label>
+                            <InputText class="form-control" @bind-Value="account.MailingAdress" />
+
+                            <ValidationMessage For="() => account.MailingAdress" />
+                        </div>
+
+
+
+                    </div>
+                    <div class="form-group row">
+
+                        <div class="col-">
+                            <label style="color:black" class="control-label col-md-12">City:</label>
+                            <InputSelect class="form-control" @bind-Value="account.City">
+                                <option value="0">-- Select City --</option>
+                                <option value="1">Karachi</option>
+                                <option value="2">Islamabad</option>
+
+                                <option value="3">Lahore</option>
+
+                                <option value="4">Peshawar</option>
+
+                            </InputSelect>
+
+                            <ValidationMessage For="() => account.City" />
+                        </div>
+                        <div class="col-3">
+                            <label style="color:black" class="control-label col-md-12">ZipCode:</label>
+                            <InputText class="form-control" @bind-Value="account.PostalCode" />
+
+                            <ValidationMessage For="() => account.PostalCode" />
+                        </div>
+
+                        <div class="col-3">
+                            <label style="color:black" class="control-label col-md-12">AddressType:</label>
+                            <InputSelect class="form-control" @bind-Value="account.AddressType">
+                                <option value="0">-- Select Address Type --</option>
+                                <option value="1">Residential</option>
+                                <option value="2">Office</option>
+
+
+                            </InputSelect>
+
+                            <ValidationMessage For="() => account.AddressType" />
+                        </div>
+                        <div class="col-3">
+                            <label style="color:black" class="control-label col-md-12">NTN:</label>
+                            <InputText class="form-control" @bind-Value="account.NTN" />
+
+                            <ValidationMessage For="() => account.NTN" />
+                        </div>
+
+
+                    </div>
+                    
+                   
+
+
+               
+               
+               </div>
+
+                <p></p>
+                <div class="card-body">
+                    <div class="form-group row">
+                        <h3 style="color:black">Customer Information</h3>
+                    </div>
+                    <div class="form-group row">
+
+                        <div class="col-6">
+                            <label style="color:black" class="control-label col-md-12">Full Name(As Per CNIC in Block Letter):</label>
+                         <InputText class="form-control" @bind-Value="customer.CustomerName" />
+                          <ValidationMessage For="() => customer.CustomerName" />
+                        </div>
+                        <div class="col-6">
+                            <label style="color:black" class="control-label col-md-12">Gender:</label>
+                            <InputSelect class="form-control" @bind-Value="customer.gender">
+                                <option value="0">-- Select Gender --</option>
+                                <option value="1">Male</option>
+                                <option value="2">Female</option>
+
+                                <option value="3">Others</option>
+                            </InputSelect>
+                            <ValidationMessage For="() => customer.gender" />
+                        </div>
+
+
+                    </div>
+                    <div class="form-group row">
+
+                        <div class="col-4">
+                            <label style="color:black" class="control-label col-md-12">Father`s Name:</label>
+                            <InputText class="form-control" @bind-Value="customer.FatherName" />
+
+                            <ValidationMessage For="() => customer.FatherName" />
+                        </div>
+                        <div class="col-4">
+                            <label style="color:black" class="control-label col-md-12">Husband`s Name:</label>
+                            <InputText class="form-control" @bind-Value="customer.HusbandName" />
+
+                            <ValidationMessage For="() => customer.HusbandName" />
+                        </div>
+                        <div class="col-4">
+                            <label style="color:black" class="control-label col-md-12">Mother`s Name:</label>
+                            <InputText class="form-control" @bind-Value="customer.MotherName" />
+
+                            <ValidationMessage For="() => customer.MotherName" />
+                        </div>
+
+
+                    </div>
+                    <div class="form-group row">
+
+                        <div class="col-4">
+                            <label style="color:black" class="control-label col-md-12">Date Of Birth:</label>
+                            <InputDate class="form-control" @bind-Value="customer.DateOfBirth" />
+
+                            <ValidationMessage For="() => account.MailingAdress" />
+                        </div>
+                         <div class="col-4">
+                            <label style="color:black" class="control-label col-md-12">CNIC:</label>
+                            <InputDate class="form-control" @bind-Value="customer.CNIC" />
+
+                            <ValidationMessage For="() => customer.CNIC" />
+                        </div>
+                       
+                        <div class="col-4">
+                            <label style="color:black" class="control-label col-md-12">Mobile Number:</label>
+                            <InputText class="form-control" @bind-Value="customer.MobileNumber" />
+
+                            <ValidationMessage For="() => customer.MobileNumber" />
+                        </div>
+
+                    </div>
+                    <div class="form-group row">
+
+                        <div class="col-4">
+                            <label style="color:black" class="control-label col-md-12">Residential Address:</label>
+                            <InputText class="form-control" @bind-Value="customer.ResidentialAddress" />
+
+                            <ValidationMessage For="() => customer.ResidentialAddress" />
+                        </div>
+                        <div class="col-4">
+                            <label style="color:black" class="control-label col-md-12">Occupation:</label>
+                            <InputSelect class="form-control" @bind-Value="customer.Occupation">
+                                <option value="0">-- Select Occupation --</option>
+                                <option value="1">Salaried</option>
+                                <option value="2">SelfEmployed</option>
+
+                                <option value="3">HouseWife</option>
+                            </InputSelect>
+                            <ValidationMessage For="() => customer.Occupation" />
+                        </div>
+                       
+
+                    </div>
+                  
+
+
+                 </div>
+
+
+
+
+
+
+                
+               <p></p>
+                <div class="form-group row" align="right">
+                    <button type="submit" class="btn btn-success">Submit</button>
+                </div>
+             </EditForm>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+@code {
+    private SeamLessCustomerOnboarding.Models.Account account = new();
+    private SeamLessCustomerOnboarding.Models.Customer customer = new();
+
+    private void HandleSubmit()
+    {
+
+
+        // Process the form
+    }
+
+}
